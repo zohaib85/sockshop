@@ -1,2 +1,4 @@
 carts:
   enabled: false
+carts-db:
+  enabled: false
