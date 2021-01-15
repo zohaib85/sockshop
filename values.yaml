@@ -2,3 +2,5 @@ carts:
   enabled: false
 carts-db:
   enabled: false
+carts-db-generated:
+  enabled: false
